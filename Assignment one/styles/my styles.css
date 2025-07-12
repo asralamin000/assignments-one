@@ -103,3 +103,47 @@ nav h1{
     height: 328px;
 
 }
+/* user section styles */
+
+.user{
+    font-weight: 800;
+    font-family: 38px;
+    color: #252432;
+
+}
+.one{
+    font-weight: 800;
+    font-size: 80px;
+    color: #4E47FF;
+    text-align: center;
+}
+.two{
+    font-size: 20px;
+    color: #000000a9;
+    text-align: center;
+}
+.flex{
+    display:flex;
+}
+.flex-two{
+    display: flex;
+    
+}
+.main{
+    justify-items: center;
+}
+.flex, .flex-two{
+    text-align: center;
+    gap: 158px;
+    height: 121px;
+    width: 856px;
+}
+.main{
+    background-color: #4d47ff3a;
+    border-radius: 24px;
+    justify-items: center;
+    margin-right: 159px;
+    margin-left: 141px;
+    margin-top: 150px;
+    padding-top: 60px;
+}
